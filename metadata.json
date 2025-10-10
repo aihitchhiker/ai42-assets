@@ -1,0 +1,21 @@
+{
+  "name": "AI42",
+  "symbol": "AI42",
+  "description": "AI42 — A digital experiment in truth and trust. Built for those who see beyond the illusion of time.",
+  "image": "https://raw.githubusercontent.com/aihitchhiker/ai42-assets/main/ai42-logo.png",
+  "attributes": [
+    { "trait_type": "Origin", "value": "AI Hitchhiker Project" },
+    { "trait_type": "Mint Address", "value": "DuN96qmgf2MSr9i95QpA2ewQV6fMAAhYAEzsAJ4M6cKv" },
+    { "trait_type": "Total Supply", "value": "42,000,000.00744625" },
+    { "trait_type": "Core Principle", "value": "Truth and Trust" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/aihitchhiker/ai42-assets/main/ai42-logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
